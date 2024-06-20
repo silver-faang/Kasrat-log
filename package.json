@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/silver-faang/Kasrat.git"
+    "url": "git+https://github.com/silver-faang/Kasrat-log.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/silver-faang/Kasrat/issues"
+    "url": "https://github.com/silver-faang/Kasrat-log/issues"
   },
-  "homepage": "https://github.com/Kasrat#readme",
+  "homepage": "https://github.com/silver-faang/Kasrat-log#readme",
   "devDependencies": {
     "concurrently": "^7.6.0"
   }
